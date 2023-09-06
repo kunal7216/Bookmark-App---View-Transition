@@ -1,3 +1,4 @@
+
 const menuItems = document.querySelectorAll(".sidebar-menu__link");
 
 const navItems = document.querySelectorAll(".nav-item");
